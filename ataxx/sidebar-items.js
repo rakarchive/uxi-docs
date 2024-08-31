@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Color","ColorParseError","File","FileParseError","MoveParseError","Piece","PieceParseError","PositionParseError","Rank","RankParseError","Square","SquareParseError"],"fn":["perft"],"macro":["bitboard"],"struct":["BitBoard","FileIter","Hash","Move","Position","RankIter","SquareIter"],"trait":["MoveStore"],"type":["MoveList"]};

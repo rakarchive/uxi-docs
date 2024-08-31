@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Flag","Parameter","RunError"],"macro":["error","fatal","quit"],"struct":["Bundle","BundledCtx","Client","Command"],"type":["CmdResult","RunFn"]};
