@@ -1,1 +1,1 @@
-window.ALL_CRATES = ["arrayvec","ataxx","byteorder","cfg_if","convert_case","derive_more","derive_new","getrandom","heck","libc","mexx","num_derive","num_traits","ppv_lite86","proc_macro2","quote","rand","rand_chacha","rand_core","rustversion","strum","strum_macros","thiserror","thiserror_impl","unicode_ident","uxi","zerocopy","zerocopy_derive"];
+window.ALL_CRATES = ["tetka_games"];

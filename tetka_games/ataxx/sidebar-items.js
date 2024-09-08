@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Color","ColoredPiece","File","MoveParseError","Piece","PositionParseError","Rank","Square"],"struct":["BitBoard","ColorIter","ColoredPieceIter","FileIter","Move","PieceIter","Position","RankIter","SquareIter"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PiecePlacementParseError","TypeParseError"],"struct":["Hash"],"trait":["BitBoardType","ColoredPieceType","MoveStore","MoveType","PositionType","RepresentableType","SquareType"],"type":["MoveList"]};

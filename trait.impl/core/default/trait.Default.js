@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"tetka_games":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.80.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"tetka_games/ataxx/struct.Move.html\" title=\"struct tetka_games::ataxx::Move\">Move</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.80.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"tetka_games/interface/struct.Hash.html\" title=\"struct tetka_games::interface::Hash\">Hash</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
